@@ -3,7 +3,7 @@
 var path = require('path'),
     sys = require('util');
 
-require.paths.unshift(path.join(__dirname, '..', 'lib'));
+//require.paths.unshift(path.join(__dirname, '..', 'lib'));
 
 var httpConsole = require('http-console');
 
